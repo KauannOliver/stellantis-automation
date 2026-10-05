@@ -2,7 +2,7 @@
 
 A Windows desktop workflow that reads logistics data from Excel, applies route and document-type rules, and exports records for invoice review.
 
-> Private repository: the rule set reflects a company-specific operation. Do not publish customer data or treat the output as an invoice authorization without business validation.
+> Public source edition. Configure credentials locally and use empty or synthetic inputs. Company and institution names identify the original integration context; this repository does not claim affiliation or endorsement.
 
 ## Workflow
 
